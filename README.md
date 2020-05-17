@@ -11,11 +11,9 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 # if your cpu is 32 bit then you are download it
 
 
-☆ WH-Rat x86 v1.3 / 32 bit > mega drive :[Here]( https://mega.nz/file/MF1wQQKb#CG_4VvrBlp27JjSZMsD7-g7LOAuzGevGaHCYmK_MWpg "WH-Rat x86 v1.3  / 32 bit")
+☆ WH-Rat x86 v1.4 / 32 bit > mega drive :[Here]( https://mega.nz/file/MF1wQQKb#CG_4VvrBlp27JjSZMsD7-g7LOAuzGevGaHCYmK_MWpg "WH-Rat x86 v1.4  / 32 bit")
 
- or
 
-☆ WH-Rat x86 v1.3 / 32 bit > google drive :[Here]( https://drive.google.com/uc?id=1dtJkibacFlPNQR0vadGWwx0SBf86fYVh&export=download "WH-Rat x86 v1.2  / 32 bit")
 
 # ➰ requirements PKG
 
