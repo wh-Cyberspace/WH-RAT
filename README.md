@@ -94,7 +94,7 @@ Jdk jre [Here]( https://www.oracle.com/java/technologies/javase-jdk13-downloads.
 <br /><br />
 
 # ℹ INFO
-Framwork version : 1.0.1 
+Framwork version : 1.1.3 
 
 POWER BY >> WH-Cyberspace  
 
