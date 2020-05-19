@@ -85,8 +85,9 @@ Jdk jre [Here]( https://www.oracle.com/java/technologies/javase-jdk13-downloads.
 
 [![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-RAT/master/img/whrat4.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-RAT v1.0.1 | Windows + Android Advance penetration framework | WH-Cyberspace ( PC )")
 
+# virustotal scan result
 
-
+🏳 [virustotal scan result (here)]( https://www.virustotal.com/gui/file/236c24a09ac611ca5b4d7b7ca20c28f4689923afd790423f6e314f46f13b9977/detection "Click and see the info ")
 
 <br /><br />
 
