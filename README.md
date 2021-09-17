@@ -8,11 +8,6 @@
 # 🏳 WH-Cyberspace (WH - RAT) 🔞
 Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes. 
 
-# if your cpu is 32 bit then you are download it
-
-
-☆ WH-Rat x86 v1.4 / 32 bit > mega drive :[Here]( https://mega.nz/file/MF1wQQKb#CG_4VvrBlp27JjSZMsD7-g7LOAuzGevGaHCYmK_MWpg "WH-Rat x86 v1.4  / 32 bit")
-
 
 
 # ➰ requirements PKG
