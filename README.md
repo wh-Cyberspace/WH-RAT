@@ -9,6 +9,11 @@
 Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes. 
 
 
+# ➰ requirements PKG
+
+☆ WH RAT V2 New Update Version [v2.2.0.1 ]( https://github.com/wh-Cyberspace/Wh-Rat-V2 ")  &  [Here  3.5 ]( whcyberspace.com/view/wH-Rat-V2 "WH Rat V2.2 ")
+
+
 
 # ➰ requirements PKG
 
